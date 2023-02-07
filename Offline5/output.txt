@@ -1,6 +1,0 @@
-Sample size	Best rank	Chosen Rank	Success
-10		212		78		No
-15		23		9		No
-20		3		0		Yes
-25		117		39		No
-50		20		18		No
