@@ -34,7 +34,7 @@ if __name__=="__main__":
                 counter[j][total_children] += 1
             parents = no_of_children
     for i in range(no_of_generation):
-        print("Generation ",i)
+        print("Generation ",i+1)
         for j in range(5):
             print("Probability of ",j," neutrons is ",counter[i][j]/10000)
 
